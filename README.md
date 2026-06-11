@@ -1,5 +1,6 @@
 # 🐧 MicroTux OS (v1.0)
 An ultra-lightweight, minimal 64-bit Linux operating system engineered entirely from the source code blocks up.
+
      __
     (o O) 
     / v \     
