@@ -1,13 +1,10 @@
 # 🐧 MicroTux OS (v1.0)
 An ultra-lightweight, minimal 64-bit Linux operating system engineered entirely from the source code blocks up.
-
      __
-    (o O)     [ MICROTUX OS ]
+    (o O) 
     / v \     
-   /( _ )\    64-bit Core System v1.0
+   /( _ )\    
    ^^   ^^   
-
-
 ## 🚀 Overview
 MicroTux OS is a custom-tailored distribution built using the Linux 6.14 kernel and a statically-linked BusyBox userland payload. Designed with a robust, fail-safe architecture, it functions as an autonomous installation host and bulletproof deployment system on real bare-metal hardware.
 
