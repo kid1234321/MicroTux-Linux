@@ -3,10 +3,10 @@ An ultra-lightweight, minimal 64-bit Linux operating system engineered entirely 
 
 ```text
      __
-    (o O)     [ MICROTUX OS ]
+    (o O) 
     / v \     
-   /( _ )\    64-bit Core System v1.0
-   ^^   ^^    Booting complete.
+   /( _ )\ 
+   ^^   ^^ 
 ```
 
 ## 🚀 Overview
